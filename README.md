@@ -7,7 +7,7 @@
 
 ###
 <!--<a href="https://app.daily.dev/abushqear"><img src="https://api.daily.dev/devcards/v2/kW7pfigHzcNegIpJ75cFu.png?type=default&r=a95" width="356" alt="Mohammed Abu-Shqear's Dev Card" align="left"/></a>-->
-<a href="https://freeimage.host/i/3fhmq0v"><img src="https://iili.io/3fhmq0v.md.png" alt="3fhmq0v.md.png" border="0" align="left" ></a>
+<a href="https://freeimage.host/i/3fhmq0v"><img src="https://iili.io/3fhmq0v.md.png" alt="3fhmq0v.md.png" border="0" width="50%" align="left" ></a>
 
 
 ###
