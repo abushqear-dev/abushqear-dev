@@ -4,7 +4,7 @@
 
 <h2 align="center">Full-Stack Developer</h2>
 <p style="font-family: Ponomar;" align="center"><em>
-Last Modified: 9th March 2025</em></p>
+Last Modified: 9th March 2025</em></p><br>
 
 ###
 <!--<a href="https://app.daily.dev/abushqear"><img src="https://api.daily.dev/devcards/v2/kW7pfigHzcNegIpJ75cFu.png?type=default&r=a95" width="356" alt="Mohammed Abu-Shqear's Dev Card" align="left"/></a>-->
