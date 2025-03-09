@@ -20,12 +20,15 @@
 
 ###
 
-<p align="left">Now, at twenty-four, that same curiosity drives him forward. He finds joy not only in unraveling the mysteries of technology but also in connecting with people from different cultures, exchanging ideas, and creating meaningful moments. He takes pride in being a reflection of his homeland—its warmth, its kindness, its quiet beauty. <strong>His passion has led him to learn new languages becoming a $${\color{lightgreen}Freelance \space \space Translator}$$</strong>, explore $${\color{lightgreen}Digital \space \space Painting}$$, and aspire to master the art of $${\color{lightblue}Drawing}$$</strong>.<br><p align="left">Welcome to his story and thank you for being a part of it.</p></p>
+<p align="left">Now, at twenty-four, that same curiosity drives him forward. He finds joy not only in unraveling the mysteries of technology but also in connecting with people from different cultures, exchanging ideas, and creating meaningful moments. He takes pride in being a reflection of his homeland—its warmth, its kindness, its quiet beauty. <strong>His passion has led him to learn new languages becoming a $${\color{lightgreen}Freelance \space \space Translator}$$</strong>, explore $${\color{lightgreen}Digital \space \space Painting}$$, and aspire to master the art of $${\color{lightblue}Drawing}$$</strong>.</p><br>
+
+<p align="left">This guy is happy to have you in his simple space where you watch him doing his best to achive his dreams, to accompanying him on his adventures until he reaches the mountain peaks and the sky, fighting obstacles with enthusiasm and strength, never saying no to challenges nor battels. He will do his best to be a good figure for others and spread knowlage with others, he says <strong>'thank you'</strong> for all of you for reading this and watching over him growing...</p>
 
 ###
 ###
 
-<br><hr>
+
+<hr>
 <h3 align="left">My Stats & Progress</h3>
 
 ###
