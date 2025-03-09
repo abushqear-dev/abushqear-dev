@@ -7,7 +7,7 @@
 
 ###
 <!--<a href="https://app.daily.dev/abushqear"><img src="https://api.daily.dev/devcards/v2/kW7pfigHzcNegIpJ75cFu.png?type=default&r=a95" width="356" alt="Mohammed Abu-Shqear's Dev Card" align="left"/></a>-->
-<a href="https://freeimage.host/i/3fhmq0v"><img src="https://iili.io/3fhmq0v.md.png" alt="3fhmq0v.md.png" border="0" width="50%" align="left" ></a>
+<a href="https://freeimage.host/i/3fhmq0v"><img src="https://iili.io/3fhmq0v.md.png" alt="3fhmq0v.md.png" border="0" width="40%" align="left" ></a>
 
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">In the land of Jordan, which known for its hospitality and kindness, a curious young boy from the quiet countryside and green mountains of Jordan, forever asking questions. What is this? How does that work? Why was it made this way? His mind, though slow and methodical, thrived on uncovering the roots of everything around him. But nothing fascinated him more than the old computer sitting in his family’s home—a mysterious machine filled with endless possibilities. <strong>And so began his journey into the world of IT</strong>.</p>
+<p align="left">In the land of Jordan, which known for its hospitality and kindness, a curious young boy from the quiet countryside and green mountains of Jordan, forever asking questions. What is this? How does that work? Why was it made this way? His mind, though slow and methodical, thrived on uncovering the roots of everything around him. But nothing fascinated him more than the old computer sitting in his family’s home—a mysterious machine filled with endless possibilities. <strong>And so began his journey into the world of IT. the $${\color{lightgreen}Full-Stack \space \space Developer}$$ you see today</strong>.</p>
 
 ###
 
