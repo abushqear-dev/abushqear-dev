@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">In the land of Jordan, which known for its hospitality and kindness, a curious young boy from the quiet countryside and green mountains of Jordan, forever asking questions. What is this? How does that work? Why was it made this way? His mind, though slow and methodical, thrived on uncovering the roots of everything around him. But nothing fascinated him more than the old computer sitting in his family’s home—a mysterious machine filled with endless possibilities. <strong>And so began his journey into the world of IT, the $${\color{lightgreen}Full-Stack \space \space Developer}$$ you see today</strong>.</p>
+<p align="left">In the land of Jordan, which known for its hospitality and kindness, a curious young boy from the quiet countryside and green mountains of Jordan, forever asking questions. What is this? How does that work? Why was it made this way? His mind, though slow and methodical, thrived on uncovering the roots of everything around him. But nothing fascinated him more than the old computer sitting in his family’s home—a mysterious machine filled with endless possibilities. <strong>And so began his journey into the world of IT</strong>.</p>
 
 ###
 
